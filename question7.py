@@ -16,4 +16,3 @@ OUT.append(c)
 
 print(OUT)
 # use append method to do this.
-
