@@ -7,6 +7,13 @@ d=[2]
 e=[3]
 
 # use these lists to create another list which will look like the list output in line 2
+OUT = []
+OUT.append(a)
+OUT.append(b)
+d.append(e)
+c.append(d)
+OUT.append(c)
 
+print(OUT)
 # use append method to do this.
 
